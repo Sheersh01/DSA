@@ -548,28 +548,10 @@ export const categories = [
   "Serialization",
 ];
 
-// Data structure organization
 export const dataStructures = {
   "Binary Trees": {
     categories: categories,
     questions: binaryTreesData,
-  },
-  // Placeholder for future data structures
-  Arrays: {
-    categories: ["Sorting", "Searching", "Two Pointers"],
-    questions: [],
-  },
-  "Linked Lists": {
-    categories: ["Traversal", "Manipulation", "Cycle Detection"],
-    questions: [],
-  },
-  Graphs: {
-    categories: ["BFS", "DFS", "Shortest Path"],
-    questions: [],
-  },
-  "Dynamic Programming": {
-    categories: ["1D DP", "2D DP", "Subsequence"],
-    questions: [],
   },
 };
 
